@@ -9,7 +9,7 @@ const Nav: React.FC<NavProps> = () => {
     <nav className={tw`flex items-center justify-between py-8 px-16`}>
       <NextLink href="/">
         <a>
-          <img src="/logo.png" />
+          <img src="/logo.png" alt="Sampson IT Solutions Logo" />
         </a>
       </NextLink>
 
